@@ -1,16 +1,23 @@
-# login_app
+#Flutter Course 
 
-A new Flutter project.
+## login_app
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+In this example we have build the design of the Login Screen on both Android & iOS using Scaffold Material Design.
 
-A few resources to get you started if this is your first Flutter project:
+in this App you will learn how to use 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1- Text fields 
+2- TextEditingControllers 
+3- Import and use your custom images 
+4- Validation and output of the login process. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The link of the lectures can be found here 
+
+Udemy Full course:- "Coming Soon"
+
+
+Youtube Flutter course:- https://www.youtube.com/playlist?list=PLZeX1aIDYSn8JisOoBDLz1AwDbv0sTGmK
+
+
+
