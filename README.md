@@ -1,9 +1,9 @@
-#Flutter Course 
+# Login Application Developed by Flutter & Dart language
+in this tutorial we are designing and buildinng a Login Application using Scaffold material design.
 
 ## login_app
 
-
-In this example we have build the design of the Login Screen on both Android & iOS using Scaffold Material Design.
+in the lecture we have discussed a step by step on how to design a login page using the following flutter widgets:-
 
 in this App you will learn how to use 
 
